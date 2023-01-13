@@ -1,0 +1,101 @@
+[
+    {
+    "kanji": "零",
+    "translations": ["zéro"],
+    "hiragana": "れい",
+    "katakana": "レイ",
+    "romaji":"rei",
+    "grade": "2",
+    "stroke_count": "6"
+    },
+    {
+    "kanji": "一",
+    "translations": ["un"],
+    "hiragana": "いち",
+    "katakana": "イチ",
+    "romaji":"ichi",
+    "grade": "1",
+    "stroke_count": "1"
+    },
+    {
+    "kanji": "二",
+    "translations": ["deux"],
+    "hiragana": "に",
+    "katakana": "ニ",
+    "romaji":"ni",
+    "grade": "1",
+    "stroke_count": "2"
+    },
+    {
+    "kanji": "三",
+    "translations": ["trois"],
+    "hiragana": "さん",
+    "katakana": "サン",
+    "romaji":"san",
+    "grade": "1",
+    "stroke_count": "3"
+    },
+    {
+    "kanji": "四",
+    "translations": ["quatre"],
+    "hiragana": "し",
+    "katakana": "シ",
+    "romaji":"shi",
+    "grade": "1",
+    "stroke_count": "4"
+    },
+    {
+    "kanji": "五",
+    "translations": ["cinq"],
+    "hiragana": "ご",
+    "katakana": "ゴ",
+    "romaji":"go",
+    "grade": "1",
+    "stroke_count": "5"
+    },
+    {
+    "kanji": "六",
+    "translations": ["six"],
+    "hiragana": "ろく",
+    "katakana": "ロク",
+    "romaji":"roku",
+    "grade": "1",
+    "stroke_count": "6"
+    },
+    {
+    "kanji": "七",
+    "translations": ["sept"],
+    "hiragana": "しち",
+    "katakana": "シチ",
+    "romaji":"shichi",
+    "grade": "1",
+    "stroke_count": "7"
+    },
+    {
+    "kanji": "八",
+    "translations": ["huit"],
+    "hiragana": "はち",
+    "katakana": "ハチ",
+    "romaji":"hachi",
+    "grade": "1",
+    "stroke_count": "8"
+    },
+    {
+    "kanji": "九",
+    "translations": ["neuf"],
+    "hiragana": "きゅう",
+    "katakana": "キュウ",
+    "romaji":"kyuu",
+    "grade": "1",
+    "stroke_count": "9"
+    },
+    {
+    "kanji": "十",
+    "translations": ["dix"],
+    "hiragana": "じゅう",
+    "katakana": "ジュウ",
+    "romaji":"juu",
+    "grade": "1",
+    "stroke_count": "4"
+    }
+]

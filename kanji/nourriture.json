@@ -1,0 +1,119 @@
+[
+    {
+    "kanji": "肉",
+    "translations": ["viande"],
+    "hiragana": "にく",
+    "katakana": "ニク",
+    "romaji":"niku",
+    "grade": "2",
+    "stroke_count": "8"
+    },
+    {
+    "kanji": "魚",
+    "translations": ["poisson"],
+    "hiragana": "さかな",
+    "katakana": "サカナ",
+    "romaji":"sakana",
+    "grade": "2",
+    "stroke_count": "9"
+    },
+    {
+    "kanji": "菜",
+    "translations": ["légume"],
+    "hiragana": "な",
+    "katakana": "ナ",
+    "romaji":"na",
+    "grade": "3",
+    "stroke_count": "7"
+    },
+    {
+    "kanji": "麺",
+    "translations": ["nouilles"],
+    "hiragana": "めん",
+    "katakana": "メン",
+    "romaji":"men",
+    "grade": "3",
+    "stroke_count": "9"
+    },
+    {
+    "kanji": "寿司",
+    "translations": ["sushi"],
+    "hiragana": "すし",
+    "katakana": "スシ",
+    "romaji":"sushi",
+    "grade": "2",
+    "stroke_count": "18"
+    },
+    {
+    "kanji": "酒",
+    "translations": ["alcool"],
+    "hiragana": "さけ",
+    "katakana": "サケ",
+    "romaji":"sake",
+    "grade": "3",
+    "stroke_count": "8"
+    },
+    {
+    "kanji": "珈琲",
+    "translations": ["café"],
+    "hiragana": "こうひ",
+    "katakana": "コウヒ",
+    "romaji":"kouhi",
+    "grade": "3",
+    "stroke_count": "14"
+    },
+    {
+    "kanji": "麦酒",
+    "translations": ["bière"],
+    "hiragana": "ばいしゅう",
+    "katakana": "バイシュウ",
+    "romaji":"baishuu",
+    "grade": "3",
+    "stroke_count": "18"
+    },
+    {
+    "kanji": "鶏",
+    "translations": ["poulet"],
+    "hiragana": "にわとり",
+    "katakana": "ニワトリ",
+    "romaji":"niwatori",
+    "grade": "3",
+    "stroke_count": "14"
+    },
+    {
+    "kanji": "牛",
+    "translations": ["bœuf"],
+    "hiragana": "うし",
+    "katakana": "ウシ",
+    "romaji":"ushi",
+    "grade": "2",
+    "stroke_count": "5"
+    },
+    {
+    "kanji": "豚",
+    "translations": ["cochon"],
+    "hiragana": "ぶた",
+    "katakana": "ブタ",
+    "romaji":"buta",
+    "grade": "3",
+    "stroke_count": "9"
+    },
+    {
+    "kanji": "辛",
+    "translations": ["piment"],
+    "hiragana": "からい",
+    "katakana": "カライ",
+    "romaji":"karai",
+    "grade": "3",
+    "stroke_count": "9"
+    },
+    {
+    "kanji": "水",
+    "translations": ["eau"],
+    "hiragana": "みず",
+    "katakana": "ミズ",
+    "romaji":"mizu",
+    "grade": "2",
+    "stroke_count": "4"
+    }
+]

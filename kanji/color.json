@@ -1,0 +1,101 @@
+[
+    {
+        "kanji": "黒",
+        "translations": ["noir"],
+        "hiragana": "くろ",
+        "katakana": "クロ",
+        "romaji":"kuro",
+        "grade": "2",
+        "stroke_count": "5"
+    },
+    {
+        "kanji": "赤",
+        "translations": ["rouge"],
+        "hiragana": "あか",
+        "katakana": "アカ",
+        "romaji":"aka",
+        "grade": "2",
+        "stroke_count": "5"
+    },
+    {
+        "kanji": "緑",
+        "translations": ["vert"],
+        "hiragana": "みどり",
+        "katakana": "ミドリ",
+        "romaji":"midori",
+        "grade": "3",
+        "stroke_count": "9"
+    },
+    {
+        "kanji": "青",
+        "translations": ["bleu"],
+        "hiragana": "あお",
+        "katakana": "アオ",
+        "romaji":"ao",
+        "grade": "2",
+        "stroke_count": "5"
+    },
+    {
+        "kanji": "橙",
+        "translations": ["orange"],
+        "hiragana": "みどり",
+        "katakana": "ミドリ",
+        "romaji":"midori",
+        "grade": "3",
+        "stroke_count": "8"
+        },
+        {
+        "kanji": "粉",
+        "translations": ["rose"],
+        "hiragana": "ふん",
+        "katakana": "フン",
+        "romaji":"fun",
+        "grade": "4",
+        "stroke_count": "7"
+        },
+        {
+        "kanji": "白",
+        "translations": ["blanc"],
+        "hiragana": "しろ",
+        "katakana": "シロ",
+        "romaji":"shiro",
+        "grade": "2",
+        "stroke_count": "5"
+    },
+    {
+        "kanji": "灰",
+        "translations": ["gris"],
+        "hiragana": "はい",
+        "katakana": "ハイ",
+        "romaji":"hai",
+        "grade": "2",
+        "stroke_count": "6"
+        },
+        {
+        "kanji": "黄",
+        "translations": ["jaune"],
+        "hiragana": "き",
+        "katakana": "キ",
+        "romaji":"ki",
+        "grade": "2",
+        "stroke_count": "8"
+        },
+        {
+        "kanji": "茶",
+        "translations": ["marron"],
+        "hiragana": "ちゃ",
+        "katakana": "チャ",
+        "romaji":"cha",
+        "grade": "3",
+        "stroke_count": "9"
+        },
+        {
+        "kanji": "紫",
+        "translations": ["violet"],
+        "hiragana": "むらさき",
+        "katakana": "ムラサキ",
+        "romaji":"murasaki",
+        "grade": "3",
+        "stroke_count": "8"
+        }
+]
